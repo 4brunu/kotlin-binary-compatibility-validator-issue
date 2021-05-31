@@ -1,0 +1,1 @@
+-keep class com.sample.mylibrary.Country { *; }
